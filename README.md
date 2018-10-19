@@ -1,0 +1,2 @@
+# Eventbot
+Event Management App
